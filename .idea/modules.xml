@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/onedata.iml" filepath="$PROJECT_DIR$/.idea/onedata.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/untitled1/.idea/untitled1.iml" filepath="$USER_HOME$/PycharmProjects/untitled1/.idea/untitled1.iml" />
     </modules>
   </component>
 </project>
